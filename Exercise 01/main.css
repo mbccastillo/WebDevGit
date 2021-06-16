@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+    font-family: sans-serif;
+}
+
+button{
+    background: purple;
+    color: rgb(157, 255, 0);
+    font: inherit;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+button:focus{
+    outline: none;
+}
