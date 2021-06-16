@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+}
+
+button{
+    background: lightblue;
+    border: 1px solid blue;
+    color: blue;
+    font: inherit;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+button:focus{
+    outline: none;
+}
